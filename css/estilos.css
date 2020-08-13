@@ -4,3 +4,7 @@ body{
     font-family: cursive;
     text-align: center;
 }
+
+div{
+    font-size: 2em;
+}

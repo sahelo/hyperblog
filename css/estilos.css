@@ -4,3 +4,9 @@ body{
     font-family: cursive;
     text-align: center;
 }
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    color: white;
+}

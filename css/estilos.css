@@ -3,8 +3,13 @@ body{
     background-color: gray;
     font-family: cursive;
     text-align: center;
+    font-size: larger;
 }
 
-div{
-    font-size: 2em;
+div,
+p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
 }
